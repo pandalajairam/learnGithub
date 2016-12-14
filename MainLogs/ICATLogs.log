@@ -37844,3 +37844,373 @@ Session ID: 8c4995c4b593c730d3f825ce131e94cf
 14 Dec 20:49:21,437 INFO - test method is present in package_testname[1] : loginToJenkins- 
 14 Dec 20:49:21,437 INFO - value against package_testname is : PASS 
 14 Dec 20:49:21,541 INFO - resultDir = results\CHROME-windows 7-local 
+14 Dec 20:54:35,171 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:54:35,172 INFO - key = clientName 
+14 Dec 20:54:35,173 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:54:35,173 INFO - key = deviceName 
+14 Dec 20:54:35,173 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:54:35,173 INFO - key = iterationMode 
+14 Dec 20:54:35,174 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:54:35,174 INFO - key = suiteName 
+14 Dec 20:54:35,174 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:54:35,174 INFO - key = onErrorAction 
+14 Dec 20:54:35,174 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:54:35,175 INFO - key = singleThreadExecution 
+14 Dec 20:54:35,175 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:54:35,175 INFO - key = AUT 
+14 Dec 20:54:35,175 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:54:35,175 INFO - key = baseUrl 
+14 Dec 20:54:35,176 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:54:35,176 INFO - key = baseUrl2 
+14 Dec 20:54:35,176 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:54:35,176 INFO - key = Waittime 
+14 Dec 20:54:35,177 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:54:35,177 INFO - key = browserName 
+14 Dec 20:54:35,177 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:54:35,177 INFO - key = version 
+14 Dec 20:54:35,178 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:54:35,178 INFO - key = platform 
+14 Dec 20:54:35,178 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:54:35,178 INFO - key = reportFormat 
+14 Dec 20:54:35,179 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:54:35,179 INFO - key = locationResult 
+14 Dec 20:54:35,179 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:54:35,179 INFO - key = folderScreenShot 
+14 Dec 20:54:35,180 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:54:35,180 INFO - key = locationClientLogo 
+14 Dec 20:54:35,180 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:54:35,180 INFO - key = locationCompanyLogo 
+14 Dec 20:54:35,181 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:54:35,181 INFO - key = locationFailedLogo 
+14 Dec 20:54:35,181 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:54:35,181 INFO - key = locationMinusLogo 
+14 Dec 20:54:35,182 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:54:35,182 INFO - key = locationPassedLogo 
+14 Dec 20:54:35,182 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:54:35,182 INFO - key = locationPlusLogo 
+14 Dec 20:54:35,182 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:54:35,182 INFO - key = locationWarningLogo 
+14 Dec 20:54:35,183 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:54:35,183 INFO - key = onSuccessScreenshot 
+14 Dec 20:54:35,183 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:54:35,183 INFO - key = userName 
+14 Dec 20:54:35,184 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:54:35,184 INFO - key = accessKey 
+14 Dec 20:54:35,184 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:54:35,184 INFO - key = cloudImplicitWait 
+14 Dec 20:54:35,185 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:54:35,185 INFO - key = cloudPageLoadTimeOut 
+14 Dec 20:54:35,185 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:54:35,185 INFO - key = locationCssFolder 
+14 Dec 20:54:35,186 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:54:35,186 INFO - key = locationJsFolder 
+14 Dec 20:54:35,186 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:54:35,186 INFO - key = locationImagesFolder 
+14 Dec 20:55:01,078 INFO - New BrowserContext Instance Was Created And Placed In Map : BrowserContext.mapBrowserContext 
+14 Dec 20:55:01,079 INFO - <BrowserContext><Name> chrome</Name><Version> windows 7</Version><Platform>local</Platform></BrowserContext> 
+14 Dec 20:55:01,079 INFO - BrowserContext Info Being returned: <BrowserContext><Name> chrome</Name><Version> windows 7</Version><Platform>local</Platform></BrowserContext> 
+14 Dec 20:55:01,079 INFO - <BrowserContext><Name> chrome</Name><Version> windows 7</Version><Platform>local</Platform></BrowserContext> 
+14 Dec 20:55:01,079 INFO - BrowserContext Info Being returned: <BrowserContext><Name> chrome</Name><Version> windows 7</Version><Platform>local</Platform></BrowserContext> 
+14 Dec 20:55:01,079 INFO - resultDir = results\CHROME-windows 7-local 
+14 Dec 20:55:01,080 INFO - instance member browserContext was set to :  
+14 Dec 20:55:01,080 INFO - <BrowserContext><Name> chrome</Name><Version> windows 7</Version><Platform>local</Platform></BrowserContext> 
+14 Dec 20:55:01,080 INFO - <BrowserContext><Name> chrome</Name><Version> windows 7</Version><Platform>local</Platform></BrowserContext> 
+14 Dec 20:55:01,080 INFO - Instance Of CReporter Created 
+14 Dec 20:55:01,080 INFO - reporter was placed into CReporter.mapBrowserContextReporter 
+14 Dec 20:55:12,530 INFO - resultDir = results\CHROME-windows 7-local 
+14 Dec 20:55:17,776 INFO - <BrowserContext><Name> chrome</Name><Version> windows 7</Version><Platform>local</Platform></BrowserContext> 
+14 Dec 20:55:17,776 INFO - resultDir = results\CHROME-windows 7-local 
+14 Dec 20:55:22,924 INFO - <BrowserContext><Name> chrome</Name><Version> windows 7</Version><Platform>local</Platform></BrowserContext> 
+14 Dec 20:55:22,925 INFO - resultDir = results\CHROME-windows 7-local 
+14 Dec 20:55:30,569 INFO - <BrowserContext><Name> chrome</Name><Version> windows 7</Version><Platform>local</Platform></BrowserContext> 
+14 Dec 20:55:30,569 INFO - resultDir = results\CHROME-windows 7-local 
+14 Dec 20:55:40,634 INFO - resultDir = results\CHROME-windows 7-local 
+14 Dec 20:55:40,634 INFO - resultDir = results\CHROME-windows 7-local 
+14 Dec 20:55:40,637 INFO - resultDir = results\CHROME-windows 7-local 
+14 Dec 20:55:42,090 INFO - resultDir = results\CHROME-windows 7-local 
+14 Dec 20:55:42,109 INFO - Key of mapEntry1 : com.Inficon.scripts:loginToJenkins- 
+14 Dec 20:55:42,109 INFO - package is present in package_testname[0] : com.Inficon.scripts 
+14 Dec 20:55:42,109 INFO - test method is present in package_testname[1] : loginToJenkins- 
+14 Dec 20:55:42,109 INFO - value against package_testname is : PASS 
+14 Dec 20:55:42,208 INFO - resultDir = results\CHROME-windows 7-local 
+14 Dec 20:57:26,254 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:57:26,256 INFO - key = clientName 
+14 Dec 20:57:26,257 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:57:26,257 INFO - key = deviceName 
+14 Dec 20:57:26,257 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:57:26,257 INFO - key = iterationMode 
+14 Dec 20:57:26,258 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:57:26,258 INFO - key = suiteName 
+14 Dec 20:57:26,258 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:57:26,258 INFO - key = onErrorAction 
+14 Dec 20:57:26,259 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:57:26,259 INFO - key = singleThreadExecution 
+14 Dec 20:57:26,259 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:57:26,259 INFO - key = AUT 
+14 Dec 20:57:26,260 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:57:26,260 INFO - key = baseUrl 
+14 Dec 20:57:26,260 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:57:26,260 INFO - key = baseUrl2 
+14 Dec 20:57:26,261 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:57:26,261 INFO - key = Waittime 
+14 Dec 20:57:26,261 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:57:26,261 INFO - key = browserName 
+14 Dec 20:57:26,261 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:57:26,262 INFO - key = version 
+14 Dec 20:57:26,262 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:57:26,262 INFO - key = platform 
+14 Dec 20:57:26,262 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:57:26,262 INFO - key = reportFormat 
+14 Dec 20:57:26,263 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:57:26,263 INFO - key = locationResult 
+14 Dec 20:57:26,263 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:57:26,264 INFO - key = folderScreenShot 
+14 Dec 20:57:26,264 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:57:26,264 INFO - key = locationClientLogo 
+14 Dec 20:57:26,264 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:57:26,265 INFO - key = locationCompanyLogo 
+14 Dec 20:57:26,265 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:57:26,265 INFO - key = locationFailedLogo 
+14 Dec 20:57:26,265 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:57:26,265 INFO - key = locationMinusLogo 
+14 Dec 20:57:26,266 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:57:26,266 INFO - key = locationPassedLogo 
+14 Dec 20:57:26,266 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:57:26,266 INFO - key = locationPlusLogo 
+14 Dec 20:57:26,267 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:57:26,267 INFO - key = locationWarningLogo 
+14 Dec 20:57:26,267 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:57:26,267 INFO - key = onSuccessScreenshot 
+14 Dec 20:57:26,268 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:57:26,268 INFO - key = userName 
+14 Dec 20:57:26,268 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:57:26,268 INFO - key = accessKey 
+14 Dec 20:57:26,269 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:57:26,269 INFO - key = cloudImplicitWait 
+14 Dec 20:57:26,269 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:57:26,269 INFO - key = cloudPageLoadTimeOut 
+14 Dec 20:57:26,270 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:57:26,270 INFO - key = locationCssFolder 
+14 Dec 20:57:26,270 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:57:26,270 INFO - key = locationJsFolder 
+14 Dec 20:57:26,271 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 20:57:26,271 INFO - key = locationImagesFolder 
+14 Dec 20:57:41,137 INFO - New BrowserContext Instance Was Created And Placed In Map : BrowserContext.mapBrowserContext 
+14 Dec 20:57:41,137 INFO - <BrowserContext><Name> chrome</Name><Version> windows 7</Version><Platform>local</Platform></BrowserContext> 
+14 Dec 20:57:41,137 INFO - BrowserContext Info Being returned: <BrowserContext><Name> chrome</Name><Version> windows 7</Version><Platform>local</Platform></BrowserContext> 
+14 Dec 20:57:41,138 INFO - <BrowserContext><Name> chrome</Name><Version> windows 7</Version><Platform>local</Platform></BrowserContext> 
+14 Dec 20:57:41,138 INFO - BrowserContext Info Being returned: <BrowserContext><Name> chrome</Name><Version> windows 7</Version><Platform>local</Platform></BrowserContext> 
+14 Dec 20:57:41,138 INFO - resultDir = results\CHROME-windows 7-local 
+14 Dec 20:57:41,138 INFO - resultDir = results\CHROME-windows 7-local 
+14 Dec 20:57:41,139 INFO - Current Logo Name : logos/logo.png 
+14 Dec 20:57:41,202 INFO - logos\logo.pngcopied to C:\Users\IN02107\learnGithub\results\CHROME-windows 7-local\screenshots 
+14 Dec 20:57:41,202 INFO - Current Logo Name : logos/gallop_logo.png 
+14 Dec 20:57:41,204 INFO - logos\gallop_logo.pngcopied to C:\Users\IN02107\learnGithub\results\CHROME-windows 7-local\screenshots 
+14 Dec 20:57:41,205 INFO - Current Logo Name : logos/failed.ico 
+14 Dec 20:57:41,207 INFO - logos\failed.icocopied to C:\Users\IN02107\learnGithub\results\CHROME-windows 7-local\screenshots 
+14 Dec 20:57:41,207 INFO - Current Logo Name : logos/Minus.ico 
+14 Dec 20:57:41,209 INFO - logos\Minus.icocopied to C:\Users\IN02107\learnGithub\results\CHROME-windows 7-local\screenshots 
+14 Dec 20:57:41,209 INFO - Current Logo Name : logos/passed.ico 
+14 Dec 20:57:41,212 INFO - logos\passed.icocopied to C:\Users\IN02107\learnGithub\results\CHROME-windows 7-local\screenshots 
+14 Dec 20:57:41,212 INFO - Current Logo Name : logos/Plus.ico 
+14 Dec 20:57:41,214 INFO - logos\Plus.icocopied to C:\Users\IN02107\learnGithub\results\CHROME-windows 7-local\screenshots 
+14 Dec 20:57:41,214 INFO - Current Logo Name : logos/warning.ico 
+14 Dec 20:57:41,218 INFO - logos\warning.icocopied to C:\Users\IN02107\learnGithub\results\CHROME-windows 7-local\screenshots 
+14 Dec 20:57:41,218 INFO - Current Logo Name : logos/css 
+14 Dec 20:57:41,342 INFO - Current Logo Name : logos/images 
+14 Dec 20:57:41,494 INFO - Current Logo Name : logos/js 
+14 Dec 20:57:41,672 INFO - instance member browserContext was set to :  
+14 Dec 20:57:41,672 INFO - <BrowserContext><Name> chrome</Name><Version> windows 7</Version><Platform>local</Platform></BrowserContext> 
+14 Dec 20:57:41,672 INFO - <BrowserContext><Name> chrome</Name><Version> windows 7</Version><Platform>local</Platform></BrowserContext> 
+14 Dec 20:57:41,672 INFO - Instance Of CReporter Created 
+14 Dec 20:57:41,673 INFO - reporter was placed into CReporter.mapBrowserContextReporter 
+14 Dec 20:57:54,657 INFO - resultDir = results\CHROME-windows 7-local 
+14 Dec 20:57:59,835 INFO - <BrowserContext><Name> chrome</Name><Version> windows 7</Version><Platform>local</Platform></BrowserContext> 
+14 Dec 20:57:59,836 INFO - resultDir = results\CHROME-windows 7-local 
+14 Dec 20:58:05,003 INFO - <BrowserContext><Name> chrome</Name><Version> windows 7</Version><Platform>local</Platform></BrowserContext> 
+14 Dec 20:58:05,003 INFO - resultDir = results\CHROME-windows 7-local 
+14 Dec 20:58:12,443 INFO - <BrowserContext><Name> chrome</Name><Version> windows 7</Version><Platform>local</Platform></BrowserContext> 
+14 Dec 20:58:12,443 INFO - resultDir = results\CHROME-windows 7-local 
+14 Dec 20:58:23,158 INFO - resultDir = results\CHROME-windows 7-local 
+14 Dec 20:58:24,031 INFO - resultDir = results\CHROME-windows 7-local 
+14 Dec 20:58:24,033 INFO - Key of mapEntry1 : com.Inficon.scripts:loginToJenkins- 
+14 Dec 20:58:24,033 INFO - package is present in package_testname[0] : com.Inficon.scripts 
+14 Dec 20:58:24,034 INFO - test method is present in package_testname[1] : loginToJenkins- 
+14 Dec 20:58:24,034 INFO - value against package_testname is : PASS 
+14 Dec 20:58:24,101 INFO - resultDir = results\CHROME-windows 7-local 
+14 Dec 21:02:33,647 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:02:33,648 INFO - key = clientName 
+14 Dec 21:02:33,648 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:02:33,649 INFO - key = deviceName 
+14 Dec 21:02:33,649 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:02:33,649 INFO - key = iterationMode 
+14 Dec 21:02:33,649 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:02:33,650 INFO - key = suiteName 
+14 Dec 21:02:33,650 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:02:33,650 INFO - key = onErrorAction 
+14 Dec 21:02:33,650 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:02:33,650 INFO - key = singleThreadExecution 
+14 Dec 21:02:33,651 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:02:33,651 INFO - key = AUT 
+14 Dec 21:02:33,651 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:02:33,651 INFO - key = baseUrl 
+14 Dec 21:02:33,652 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:02:33,652 INFO - key = baseUrl2 
+14 Dec 21:02:33,652 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:02:33,652 INFO - key = Waittime 
+14 Dec 21:02:33,653 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:02:33,653 INFO - key = browserName 
+14 Dec 21:02:33,653 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:02:33,653 INFO - key = version 
+14 Dec 21:02:33,654 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:02:33,654 INFO - key = platform 
+14 Dec 21:02:33,654 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:02:33,654 INFO - key = reportFormat 
+14 Dec 21:02:33,655 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:02:33,655 INFO - key = locationResult 
+14 Dec 21:02:33,656 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:02:33,656 INFO - key = folderScreenShot 
+14 Dec 21:02:33,657 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:02:33,657 INFO - key = locationClientLogo 
+14 Dec 21:02:33,657 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:02:33,657 INFO - key = locationCompanyLogo 
+14 Dec 21:02:33,658 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:02:33,658 INFO - key = locationFailedLogo 
+14 Dec 21:02:33,658 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:02:33,658 INFO - key = locationMinusLogo 
+14 Dec 21:02:33,658 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:02:33,659 INFO - key = locationPassedLogo 
+14 Dec 21:02:33,659 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:02:33,659 INFO - key = locationPlusLogo 
+14 Dec 21:02:33,659 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:02:33,660 INFO - key = locationWarningLogo 
+14 Dec 21:02:33,660 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:02:33,660 INFO - key = onSuccessScreenshot 
+14 Dec 21:02:33,660 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:02:33,660 INFO - key = userName 
+14 Dec 21:02:33,661 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:02:33,661 INFO - key = accessKey 
+14 Dec 21:02:33,661 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:02:33,662 INFO - key = cloudImplicitWait 
+14 Dec 21:02:33,662 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:02:33,662 INFO - key = cloudPageLoadTimeOut 
+14 Dec 21:02:33,662 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:02:33,663 INFO - key = locationCssFolder 
+14 Dec 21:02:33,663 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:02:33,663 INFO - key = locationJsFolder 
+14 Dec 21:02:33,663 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:02:33,664 INFO - key = locationImagesFolder 
+14 Dec 21:02:48,630 INFO - New BrowserContext Instance Was Created And Placed In Map : BrowserContext.mapBrowserContext 
+14 Dec 21:02:48,630 INFO - <BrowserContext><Name> chrome</Name><Version> windows 7</Version><Platform>local</Platform></BrowserContext> 
+14 Dec 21:02:48,630 INFO - BrowserContext Info Being returned: <BrowserContext><Name> chrome</Name><Version> windows 7</Version><Platform>local</Platform></BrowserContext> 
+14 Dec 21:02:48,631 INFO - <BrowserContext><Name> chrome</Name><Version> windows 7</Version><Platform>local</Platform></BrowserContext> 
+14 Dec 21:02:48,631 INFO - BrowserContext Info Being returned: <BrowserContext><Name> chrome</Name><Version> windows 7</Version><Platform>local</Platform></BrowserContext> 
+14 Dec 21:02:48,631 INFO - resultDir = results\CHROME-windows 7-local 
+14 Dec 21:02:48,631 INFO - instance member browserContext was set to :  
+14 Dec 21:02:48,631 INFO - <BrowserContext><Name> chrome</Name><Version> windows 7</Version><Platform>local</Platform></BrowserContext> 
+14 Dec 21:02:48,631 INFO - <BrowserContext><Name> chrome</Name><Version> windows 7</Version><Platform>local</Platform></BrowserContext> 
+14 Dec 21:02:48,632 INFO - Instance Of CReporter Created 
+14 Dec 21:02:48,632 INFO - reporter was placed into CReporter.mapBrowserContextReporter 
+14 Dec 21:03:01,965 INFO - resultDir = results\CHROME-windows 7-local 
+14 Dec 21:03:07,115 INFO - <BrowserContext><Name> chrome</Name><Version> windows 7</Version><Platform>local</Platform></BrowserContext> 
+14 Dec 21:03:07,116 INFO - resultDir = results\CHROME-windows 7-local 
+14 Dec 21:03:12,268 INFO - <BrowserContext><Name> chrome</Name><Version> windows 7</Version><Platform>local</Platform></BrowserContext> 
+14 Dec 21:03:12,268 INFO - resultDir = results\CHROME-windows 7-local 
+14 Dec 21:03:22,793 INFO - <BrowserContext><Name> chrome</Name><Version> windows 7</Version><Platform>local</Platform></BrowserContext> 
+14 Dec 21:03:22,793 INFO - resultDir = results\CHROME-windows 7-local 
+14 Dec 21:03:32,813 INFO - resultDir = results\CHROME-windows 7-local 
+14 Dec 21:03:32,814 INFO - resultDir = results\CHROME-windows 7-local 
+14 Dec 21:03:32,823 INFO - resultDir = results\CHROME-windows 7-local 
+14 Dec 21:03:33,763 INFO - resultDir = results\CHROME-windows 7-local 
+14 Dec 21:03:33,765 INFO - Key of mapEntry1 : com.Inficon.scripts:loginToJenkins- 
+14 Dec 21:03:33,765 INFO - package is present in package_testname[0] : com.Inficon.scripts 
+14 Dec 21:03:33,765 INFO - test method is present in package_testname[1] : loginToJenkins- 
+14 Dec 21:03:33,765 INFO - value against package_testname is : PASS 
+14 Dec 21:03:33,815 INFO - resultDir = results\CHROME-windows 7-local 
+14 Dec 21:03:59,957 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:03:59,959 INFO - key = clientName 
+14 Dec 21:03:59,959 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:03:59,959 INFO - key = deviceName 
+14 Dec 21:03:59,960 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:03:59,960 INFO - key = iterationMode 
+14 Dec 21:03:59,960 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:03:59,960 INFO - key = suiteName 
+14 Dec 21:03:59,961 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:03:59,961 INFO - key = onErrorAction 
+14 Dec 21:03:59,961 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:03:59,961 INFO - key = singleThreadExecution 
+14 Dec 21:03:59,961 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:03:59,962 INFO - key = AUT 
+14 Dec 21:03:59,962 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:03:59,962 INFO - key = baseUrl 
+14 Dec 21:03:59,962 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:03:59,962 INFO - key = baseUrl2 
+14 Dec 21:03:59,963 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:03:59,963 INFO - key = Waittime 
+14 Dec 21:03:59,963 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:03:59,963 INFO - key = browserName 
+14 Dec 21:03:59,964 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:03:59,964 INFO - key = version 
+14 Dec 21:03:59,964 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:03:59,964 INFO - key = platform 
+14 Dec 21:03:59,965 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:03:59,965 INFO - key = reportFormat 
+14 Dec 21:03:59,965 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:03:59,965 INFO - key = locationResult 
+14 Dec 21:03:59,966 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:03:59,966 INFO - key = folderScreenShot 
+14 Dec 21:03:59,966 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:03:59,966 INFO - key = locationClientLogo 
+14 Dec 21:03:59,967 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:03:59,967 INFO - key = locationCompanyLogo 
+14 Dec 21:03:59,967 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:03:59,967 INFO - key = locationFailedLogo 
+14 Dec 21:03:59,968 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:03:59,968 INFO - key = locationMinusLogo 
+14 Dec 21:03:59,968 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:03:59,968 INFO - key = locationPassedLogo 
+14 Dec 21:03:59,968 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:03:59,969 INFO - key = locationPlusLogo 
+14 Dec 21:03:59,969 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:03:59,969 INFO - key = locationWarningLogo 
+14 Dec 21:03:59,969 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:03:59,969 INFO - key = onSuccessScreenshot 
+14 Dec 21:03:59,970 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:03:59,970 INFO - key = userName 
+14 Dec 21:03:59,970 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:03:59,970 INFO - key = accessKey 
+14 Dec 21:03:59,971 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:03:59,971 INFO - key = cloudImplicitWait 
+14 Dec 21:03:59,971 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:03:59,971 INFO - key = cloudPageLoadTimeOut 
+14 Dec 21:03:59,972 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:03:59,972 INFO - key = locationCssFolder 
+14 Dec 21:03:59,972 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:03:59,972 INFO - key = locationJsFolder 
+14 Dec 21:03:59,973 INFO - fileName = resources/gallopReporter.properties 
+14 Dec 21:03:59,973 INFO - key = locationImagesFolder 
+14 Dec 21:04:14,511 INFO - New BrowserContext Instance Was Created And Placed In Map : BrowserContext.mapBrowserContext 
+14 Dec 21:04:14,511 INFO - <BrowserContext><Name> chrome</Name><Version> windows 7</Version><Platform>local</Platform></BrowserContext> 
+14 Dec 21:04:14,511 INFO - BrowserContext Info Being returned: <BrowserContext><Name> chrome</Name><Version> windows 7</Version><Platform>local</Platform></BrowserContext> 
+14 Dec 21:04:14,512 INFO - <BrowserContext><Name> chrome</Name><Version> windows 7</Version><Platform>local</Platform></BrowserContext> 
+14 Dec 21:04:14,512 INFO - BrowserContext Info Being returned: <BrowserContext><Name> chrome</Name><Version> windows 7</Version><Platform>local</Platform></BrowserContext> 
+14 Dec 21:04:14,512 INFO - resultDir = results\CHROME-windows 7-local 
+14 Dec 21:04:14,512 INFO - instance member browserContext was set to :  
+14 Dec 21:04:14,513 INFO - <BrowserContext><Name> chrome</Name><Version> windows 7</Version><Platform>local</Platform></BrowserContext> 
+14 Dec 21:04:14,512 INFO - <BrowserContext><Name> chrome</Name><Version> windows 7</Version><Platform>local</Platform></BrowserContext> 
+14 Dec 21:04:14,513 INFO - Instance Of CReporter Created 
+14 Dec 21:04:14,513 INFO - reporter was placed into CReporter.mapBrowserContextReporter 
+14 Dec 21:04:25,997 INFO - resultDir = results\CHROME-windows 7-local 
+14 Dec 21:04:31,149 INFO - <BrowserContext><Name> chrome</Name><Version> windows 7</Version><Platform>local</Platform></BrowserContext> 
+14 Dec 21:04:31,149 INFO - resultDir = results\CHROME-windows 7-local 
+14 Dec 21:04:36,277 INFO - <BrowserContext><Name> chrome</Name><Version> windows 7</Version><Platform>local</Platform></BrowserContext> 
+14 Dec 21:04:36,277 INFO - resultDir = results\CHROME-windows 7-local 
+14 Dec 21:04:43,801 INFO - <BrowserContext><Name> chrome</Name><Version> windows 7</Version><Platform>local</Platform></BrowserContext> 
+14 Dec 21:04:43,801 INFO - resultDir = results\CHROME-windows 7-local 
+14 Dec 21:04:53,828 INFO - resultDir = results\CHROME-windows 7-local 
+14 Dec 21:04:54,566 INFO - resultDir = results\CHROME-windows 7-local 
+14 Dec 21:04:54,568 INFO - Key of mapEntry1 : com.Inficon.scripts:loginToJenkins- 
+14 Dec 21:04:54,569 INFO - package is present in package_testname[0] : com.Inficon.scripts 
+14 Dec 21:04:54,569 INFO - test method is present in package_testname[1] : loginToJenkins- 
+14 Dec 21:04:54,569 INFO - value against package_testname is : PASS 
+14 Dec 21:04:54,587 INFO - resultDir = results\CHROME-windows 7-local 

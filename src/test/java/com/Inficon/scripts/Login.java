@@ -26,9 +26,9 @@ public class Login extends InficonLib {
 			System.out.println("**********Into the SampleTest**********");
 			checkPageIsReadyUsingJavaScript();
 			doLogin("inficon", "inficon");
-			System.out.println("Url - " + Driver.getCurrentUrl());
-			assertTrue(StringUtils.containsIgnoreCase(Driver.getCurrentUrl(), "Jenkins"),
-					"Whether Landing page is homePage");
+			System.out.println("The title of the page is - " + Driver.getTitle());
+			assertTrue(StringUtils.containsIgnoreCase(Driver.getTitle(), "Dashboard"),
+					"Jenkins");
 
 		} catch (
 

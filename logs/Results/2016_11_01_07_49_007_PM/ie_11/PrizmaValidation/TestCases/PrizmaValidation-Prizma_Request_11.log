@@ -1,0 +1,40 @@
+01/11/2016 19:49:13	INFO 	PrizmaValidation-Prizma_Request_11		Testcase executed on the Node IP: localhost
+01/11/2016 19:49:13	INFO 	PrizmaValidation-Prizma_Request_11		***** Dataprovider Iteration No: 1 : *****
+01/11/2016 19:55:16	INFO 	PrizmaValidation-Prizma_Request_11		Successfully find 'By.cssSelector: button[id='btnNominate_Text']' element on 'Prizma Johnson and Johnson' page
+01/11/2016 19:55:32	INFO 	PrizmaValidation-Prizma_Request_11		Info: caught 'TimeoutException' exception while wait for element ( By.cssSelector: input[id='IsGovernmentOfficialUnderLocalLawYES'] ) visibility at 'Prizma Johnson and Johnson' page
+01/11/2016 19:56:42	INFO 	PrizmaValidation-Prizma_Request_11		Successfully find 'By.cssSelector: button[id='btnNominate_Text']' element on 'Prizma Johnson and Johnson' page
+01/11/2016 19:56:58	INFO 	PrizmaValidation-Prizma_Request_11		Info: caught 'TimeoutException' exception while wait for element ( By.cssSelector: input[id='IsGovernmentOfficialUnderLocalLawYES'] ) visibility at 'Prizma Johnson and Johnson' page
+01/11/2016 19:57:50	INFO 	PrizmaValidation-Prizma_Request_11		Successfully find 'By.cssSelector: input[id='btnSaveNominationAndMoveToNext']' element on 'Prizma Johnson and Johnson' page
+01/11/2016 19:57:51	INFO 	PrizmaValidation-Prizma_Request_11		Info. Element 'By.cssSelector: input[id='btnSaveNominationAndMoveToNext']' exists on 'Prizma Johnson and Johnson' page.
+01/11/2016 19:57:53	INFO 	PrizmaValidation-Prizma_Request_11		Successfully find 'By.cssSelector: input[id='btnSaveNominationAndMoveToNext']' element on 'Prizma Johnson and Johnson' page
+01/11/2016 19:57:54	INFO 	PrizmaValidation-Prizma_Request_11		Info. Element 'By.cssSelector: input[id='btnSaveNominationAndMoveToNext']' exists on 'Prizma Johnson and Johnson' page.
+01/11/2016 19:57:55	INFO 	PrizmaValidation-Prizma_Request_11		Successfully find 'By.cssSelector: input[id='btnSaveNominationAndMoveToNext']' element on 'Prizma Johnson and Johnson' page
+01/11/2016 19:57:56	INFO 	PrizmaValidation-Prizma_Request_11		Info. Element 'By.cssSelector: input[id='btnSaveNominationAndMoveToNext']' exists on 'Prizma Johnson and Johnson' page.
+01/11/2016 19:57:58	INFO 	PrizmaValidation-Prizma_Request_11		Successfully find 'By.cssSelector: input[id='btnSaveNominationAndMoveToNext']' element on 'Prizma Johnson and Johnson' page
+01/11/2016 19:57:59	INFO 	PrizmaValidation-Prizma_Request_11		Info. Element 'By.cssSelector: input[id='btnSaveNominationAndMoveToNext']' exists on 'Prizma Johnson and Johnson' page.
+01/11/2016 19:58:00	INFO 	PrizmaValidation-Prizma_Request_11		Successfully find 'By.cssSelector: input[id='btnSaveNominationAndMoveToNext']' element on 'Prizma Johnson and Johnson' page
+01/11/2016 19:58:01	INFO 	PrizmaValidation-Prizma_Request_11		Info. Element 'By.cssSelector: input[id='btnSaveNominationAndMoveToNext']' exists on 'Prizma Johnson and Johnson' page.
+01/11/2016 19:58:03	INFO 	PrizmaValidation-Prizma_Request_11		Successfully find 'By.cssSelector: input[id='btnSaveNominationAndMoveToNext']' element on 'Prizma Johnson and Johnson' page
+01/11/2016 19:58:04	INFO 	PrizmaValidation-Prizma_Request_11		Info. Element 'By.cssSelector: input[id='btnSaveNominationAndMoveToNext']' exists on 'Prizma Johnson and Johnson' page.
+01/11/2016 19:58:05	INFO 	PrizmaValidation-Prizma_Request_11		Successfully find 'By.cssSelector: input[id='btnSaveNominationAndMoveToNext']' element on 'Prizma Johnson and Johnson' page
+01/11/2016 19:58:06	INFO 	PrizmaValidation-Prizma_Request_11		Info. Element 'By.cssSelector: input[id='btnSaveNominationAndMoveToNext']' exists on 'Prizma Johnson and Johnson' page.
+01/11/2016 19:58:08	INFO 	PrizmaValidation-Prizma_Request_11		Successfully find 'By.cssSelector: input[id='btnSaveNominationAndMoveToNext']' element on 'Prizma Johnson and Johnson' page
+01/11/2016 19:58:09	INFO 	PrizmaValidation-Prizma_Request_11		Info. Element 'By.cssSelector: input[id='btnSaveNominationAndMoveToNext']' exists on 'Prizma Johnson and Johnson' page.
+01/11/2016 19:58:10	INFO 	PrizmaValidation-Prizma_Request_11		Successfully find 'By.cssSelector: input[id='btnSaveNominationAndMoveToNext']' element on 'Prizma Johnson and Johnson' page
+01/11/2016 19:58:11	INFO 	PrizmaValidation-Prizma_Request_11		Info. Element 'By.cssSelector: input[id='btnSaveNominationAndMoveToNext']' exists on 'Prizma Johnson and Johnson' page.
+01/11/2016 19:58:13	INFO 	PrizmaValidation-Prizma_Request_11		Successfully find 'By.cssSelector: input[id='btnSaveNominationAndMoveToNext']' element on 'Prizma Johnson and Johnson' page
+01/11/2016 19:58:14	INFO 	PrizmaValidation-Prizma_Request_11		Info. Element 'By.cssSelector: input[id='btnSaveNominationAndMoveToNext']' exists on 'Prizma Johnson and Johnson' page.
+01/11/2016 20:00:54	ERROR	PrizmaValidation-Prizma_Request_11		Error: Failed to enter text value - '1' due to execption - Expected condition failed: waiting for element to be clickable: [[InternetExplorerDriver: internet explorer on WINDOWS (adcb3ac3-e6c2-4f55-9a78-0254bf94dd48)] -> xpath: //input[contains(@id,'txthours')]] (tried for 60 second(s) with 500 MILLISECONDS interval)
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'HW2307', ip: '172.16.18.119', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_51'
+Driver info: org.openqa.selenium.support.events.EventFiringWebDriver.
+01/11/2016 20:01:58	ERROR	PrizmaValidation-Prizma_Request_11		Error: Failed to enter text value - '140' due to execption - Expected condition failed: waiting for element to be clickable: [[InternetExplorerDriver: internet explorer on WINDOWS (adcb3ac3-e6c2-4f55-9a78-0254bf94dd48)] -> xpath: //input[contains(@id,'fmvRate')]] (tried for 60 second(s) with 500 MILLISECONDS interval)
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'HW2307', ip: '172.16.18.119', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_51'
+Driver info: org.openqa.selenium.support.events.EventFiringWebDriver.
+01/11/2016 20:03:11	ERROR	PrizmaValidation-Prizma_Request_11		Error: Failed to enter text value - '1' due to execption - Expected condition failed: waiting for element to be clickable: [[InternetExplorerDriver: internet explorer on WINDOWS (adcb3ac3-e6c2-4f55-9a78-0254bf94dd48)] -> css selector: input[id='PreparationHour']] (tried for 60 second(s) with 500 MILLISECONDS interval)
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'HW2307', ip: '172.16.18.119', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_51'
+Driver info: org.openqa.selenium.support.events.EventFiringWebDriver.
+01/11/2016 20:03:50	INFO 	PrizmaValidation-Prizma_Request_11		Info: caught 'UnhandledAlertException' exception while getting 'Prizma Johnson and Johnson' page title
+01/11/2016 20:03:52	INFO 	PrizmaValidation-Prizma_Request_11		Stopping the class

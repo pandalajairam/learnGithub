@@ -1,0 +1,4 @@
+26/10/2016 17:04:11	INFO 	PrizmaValidation-Prizma_Request_11		Testcase executed on the Node IP: localhost
+26/10/2016 17:04:11	INFO 	PrizmaValidation-Prizma_Request_11		***** Dataprovider Iteration No: 1 : *****
+26/10/2016 17:05:18	DEBUG	PrizmaValidation-Prizma_Request_11		Error: Element ([[ChromeDriver: chrome on XP (8e67eb19ec6cd375fcf1855e270d9be5)] -> css selector: select#drpDiseaseState+div div.selectize-dropdown-content>div]) is not visible.
+26/10/2016 17:05:36	DEBUG	PrizmaValidation-Prizma_Request_11		Error: Element ([[ChromeDriver: chrome on XP (8e67eb19ec6cd375fcf1855e270d9be5)] -> css selector: select#drpProduct+div div.selectize-dropdown-content>div]) is not visible.

@@ -1,0 +1,4 @@
+07/12/2016 18:24:26	INFO 	PrizmaValidation-CreateActivityID_Save_11		Testcase executed on the Node IP: localhost
+07/12/2016 18:24:26	INFO 	PrizmaValidation-CreateActivityID_Save_11		***** Dataprovider Iteration No: 1 : *****
+07/12/2016 18:26:05	INFO 	PrizmaValidation-CreateActivityID_Save_11		Info: caught 'TimeoutException' exception while wait for element ( By.cssSelector: input[id='spSearchValue'] ) visibility at 'Prizma Johnson and Johnson' page
+07/12/2016 18:26:09	INFO 	PrizmaValidation-CreateActivityID_Save_11		Stopping the class

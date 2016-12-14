@@ -1,0 +1,4 @@
+02/11/2016 19:04:03	INFO 	PrizmaValidation-Prizma_Request_11		Testcase executed on the Node IP: localhost
+02/11/2016 19:04:03	INFO 	PrizmaValidation-Prizma_Request_11		***** Dataprovider Iteration No: 1 : *****
+02/11/2016 19:07:44	INFO 	PrizmaValidation-Prizma_Request_11		Successfully find 'By.cssSelector: button[id='btnNominate_Text']' element on 'Prizma Johnson and Johnson' page
+02/11/2016 19:08:12	INFO 	PrizmaValidation-Prizma_Request_11		Info: caught 'TimeoutException' exception while wait for element ( By.cssSelector: input[id='IsGovernmentOfficialUnderLocalLawYES'] ) visibility at 'Prizma Johnson and Johnson' page

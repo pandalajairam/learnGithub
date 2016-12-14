@@ -1,0 +1,4 @@
+20/10/2016 11:55:43	INFO 	ACS_Validation_11		Staring the class
+20/10/2016 11:55:43	DEBUG	ACS_Validation_11		In Before Class method inside TestEngineWeb.
+20/10/2016 11:55:47	INFO 	ACS_Validation_11		Info: navigating URL : 'http://prizmaqa.polarisclients.com/Prizma-HIP-QA-3.1/'
+20/10/2016 11:55:58	INFO 	ACS_Validation_11		Stopping the class

@@ -1,0 +1,4 @@
+26/10/2016 20:55:00	INFO 	PrizmaValidation_11		Staring the class
+26/10/2016 20:55:00	DEBUG	PrizmaValidation_11		In Before Class method inside TestEngineWeb.
+26/10/2016 20:55:13	INFO 	PrizmaValidation_11		Info: navigating URL : 'http://prizmaqa.polarisclients.com/Prizma-HIP-QA-3.1/'
+26/10/2016 21:01:58	INFO 	PrizmaValidation_11		Stopping the class

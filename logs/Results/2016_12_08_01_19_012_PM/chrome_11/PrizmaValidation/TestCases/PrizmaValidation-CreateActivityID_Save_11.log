@@ -1,0 +1,12 @@
+08/12/2016 13:19:43	INFO 	PrizmaValidation-CreateActivityID_Save_11		Testcase executed on the Node IP: localhost
+08/12/2016 13:19:43	INFO 	PrizmaValidation-CreateActivityID_Save_11		***** Dataprovider Iteration No: 1 : *****
+08/12/2016 13:24:06	INFO 	PrizmaValidation-CreateActivityID_Save_11		Successfully find 'By.cssSelector: button[id='btnNominate_Text']' element on 'Prizma Johnson and Johnson' page
+08/12/2016 13:24:44	INFO 	PrizmaValidation-CreateActivityID_Save_11		Successfully find 'By.cssSelector: button[id='btnNominate_Text']' element on 'Prizma Johnson and Johnson' page
+08/12/2016 13:25:22	INFO 	PrizmaValidation-CreateActivityID_Save_11		Successfully find 'By.cssSelector: button[id='btnNominate_Text']' element on 'Prizma Johnson and Johnson' page
+08/12/2016 13:26:00	INFO 	PrizmaValidation-CreateActivityID_Save_11		Successfully find 'By.cssSelector: button[id='btnNominate_Text']' element on 'Prizma Johnson and Johnson' page
+08/12/2016 13:26:38	INFO 	PrizmaValidation-CreateActivityID_Save_11		Successfully find 'By.cssSelector: button[id='btnNominate_Text']' element on 'Prizma Johnson and Johnson' page
+08/12/2016 13:31:13	ERROR	PrizmaValidation-CreateActivityID_Save_11		Error: Failed to enter text value - '1' due to execption - Expected condition failed: waiting for element to be clickable: [[ChromeDriver: chrome on XP (1fda1b8540d484645ad4db092bd448c6)] -> xpath: //input[contains(@id,'txthours')]] (tried for 60 second(s) with 500 MILLISECONDS interval)
+Build info: version: 'unknown', revision: 'f233563', time: '2016-07-28 17:43:42 -0700'
+System info: host: 'HW2307', ip: '172.16.18.119', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_51'
+Driver info: org.openqa.selenium.support.events.EventFiringWebDriver.
+08/12/2016 13:31:37	INFO 	PrizmaValidation-CreateActivityID_Save_11		Stopping the class

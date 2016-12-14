@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: sourceforge:csvjdbc:1.0.9">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/sourceforge/csvjdbc/1.0.9/csvjdbc-1.0.9.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/sourceforge/csvjdbc/1.0.9/csvjdbc-1.0.9-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/sourceforge/csvjdbc/1.0.9/csvjdbc-1.0.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

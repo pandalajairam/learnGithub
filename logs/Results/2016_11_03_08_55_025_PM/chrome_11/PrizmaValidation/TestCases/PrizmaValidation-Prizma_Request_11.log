@@ -1,0 +1,4 @@
+03/11/2016 20:55:35	INFO 	PrizmaValidation-Prizma_Request_11		Testcase executed on the Node IP: localhost
+03/11/2016 20:55:35	INFO 	PrizmaValidation-Prizma_Request_11		***** Dataprovider Iteration No: 1 : *****
+03/11/2016 21:00:09	INFO 	PrizmaValidation-Prizma_Request_11		Successfully find 'By.cssSelector: button[id='btnNominate_Text']' element on 'Prizma Johnson and Johnson' page
+03/11/2016 21:03:12	DEBUG	PrizmaValidation-Prizma_Request_11		Error: Element ([[ChromeDriver: chrome on XP (3dff029514b4eb17d71f39e8d0402b8c)] -> xpath: //span[text()='Create New Request']]) is not visible.

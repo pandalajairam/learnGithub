@@ -1,0 +1,4 @@
+03/10/2016 23:27:39	INFO 	ACS_Validation-ACS_AccountRegistration_mobile_13		Testcase executed on the Node IP: localhost
+03/10/2016 23:27:39	INFO 	ACS_Validation-ACS_AccountRegistration_mobile_13		***** Dataprovider Iteration No: 1 : *****
+03/10/2016 23:28:20	INFO 	ACS_Validation-ACS_AccountRegistration_mobile_13		Successfully find 'By.cssSelector: a[href*='/Register']' element on 'American Cancer Society | Information and Resources for Cancer: Breast, Colon, Lung, Prostate, Skin' page
+03/10/2016 23:28:45	INFO 	ACS_Validation-ACS_AccountRegistration_mobile_13		Stopping the class

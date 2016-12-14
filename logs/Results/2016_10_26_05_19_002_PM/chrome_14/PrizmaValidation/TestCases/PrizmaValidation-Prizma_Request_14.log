@@ -1,0 +1,4 @@
+26/10/2016 17:19:12	INFO 	PrizmaValidation-Prizma_Request_14		Testcase executed on the Node IP: localhost
+26/10/2016 17:19:12	INFO 	PrizmaValidation-Prizma_Request_14		***** Dataprovider Iteration No: 1 : *****
+26/10/2016 17:25:32	DEBUG	PrizmaValidation-Prizma_Request_14		Error. Caught 'StaleElementReferenceException' exception while clicking on '[[ChromeDriver: chrome on XP (3664d269565fd8f62908d110189922de)] -> css selector: input[id='IsGovernmentOfficialUnderLocalLawYES']]' element.
+26/10/2016 17:28:26	INFO 	PrizmaValidation-Prizma_Request_14		Stopping the class

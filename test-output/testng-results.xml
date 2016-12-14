@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[About to begin executing Suite :- Selenium-Automation]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing method :- TestEngineWeb.beforeSuite]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing method  :- TestEngineWeb.beforeSuite]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing Test :- Test-chrome-Web]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing method :- TestEngineWeb.beforeTest]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing method  :- TestEngineWeb.beforeTest]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing method :- TestEngineWeb.beforeClass]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing method  :- TestEngineWeb.beforeClass]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing method :- TestEngineWeb.beforeMethod]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing method  :- TestEngineWeb.beforeMethod]]>
+    </line>
+    <line>
+      <![CDATA[About to begin Test :- ]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing method :- InficonValidation.sampleGitHubJenkinsTest]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing method  :- InficonValidation.sampleGitHubJenkinsTest]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing method :- TestEngineWeb.afterMethod]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing method  :- TestEngineWeb.afterMethod]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing method :- TestEngineWeb.afterClass]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing method  :- TestEngineWeb.afterClass]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing method :- TestEngineWeb.afterTest]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing method  :- TestEngineWeb.afterTest]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing method :- TestEngineWeb.afterSuite]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing method  :- TestEngineWeb.afterSuite]]>
+    </line>
+  </reporter-output>
+  <suite name="Selenium-Automation" duration-ms="102654" started-at="2016-12-14T13:07:43Z" finished-at="2016-12-14T13:09:25Z">
+    <groups>
+      <group name="regression">
+        <method signature="InficonValidation.sampleGitHubJenkinsTest()[pri:0, instance:com.web.automation.scripts.InficonValidation@25084a1e]" name="sampleGitHubJenkinsTest" class="com.web.automation.scripts.InficonValidation"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="InficonValidation.sampleGitHubJenkinsTest()[pri:0, instance:com.web.automation.scripts.InficonValidation@25084a1e]" name="sampleGitHubJenkinsTest" class="com.web.automation.scripts.InficonValidation"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test name="Test-chrome-Web" duration-ms="102654" started-at="2016-12-14T13:07:43Z" finished-at="2016-12-14T13:09:25Z">
+      <class name="com.web.automation.scripts.InficonValidation">
+        <test-method status="PASS" signature="beforeSuite(org.testng.ITestContext)[pri:0, instance:com.web.automation.scripts.InficonValidation@25084a1e]" test-instance-name="" name="beforeSuite" is-config="true" duration-ms="44" started-at="2016-12-14T18:37:43Z" finished-at="2016-12-14T18:37:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@1349883]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing method  :- TestEngineWeb.beforeSuite]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest(org.testng.ITestContext)[pri:0, instance:com.web.automation.scripts.InficonValidation@25084a1e]" test-instance-name="" name="beforeTest" is-config="true" duration-ms="1543" started-at="2016-12-14T18:37:43Z" finished-at="2016-12-14T18:37:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@1349883]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing method  :- TestEngineWeb.beforeTest]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.web.automation.scripts.InficonValidation@25084a1e]" test-instance-name="" name="beforeClass" is-config="true" duration-ms="11346" started-at="2016-12-14T18:37:44Z" finished-at="2016-12-14T18:37:56Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing method  :- TestEngineWeb.beforeClass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.web.automation.scripts.InficonValidation@25084a1e]" test-instance-name="" name="beforeMethod" is-config="true" duration-ms="178" started-at="2016-12-14T18:37:56Z" finished-at="2016-12-14T18:37:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.web.automation.scripts.InficonValidation.sampleGitHubJenkinsTest() throws java.lang.Throwable]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing method  :- TestEngineWeb.beforeMethod]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="sampleGitHubJenkinsTest()[pri:0, instance:com.web.automation.scripts.InficonValidation@25084a1e]" test-instance-name="" name="sampleGitHubJenkinsTest" duration-ms="67195" started-at="2016-12-14T18:37:56Z" description="Sample GitHub and Jenkins Integration Test" finished-at="2016-12-14T18:39:03Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing method  :- InficonValidation.sampleGitHubJenkinsTest]]>
+            </line>
+            <line>
+              <![CDATA[About to begin executing method :- TestEngineWeb.afterMethod]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- sampleGitHubJenkinsTest -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method, org.testng.ITestResult)[pri:0, instance:com.web.automation.scripts.InficonValidation@25084a1e]" test-instance-name="" name="afterMethod" is-config="true" duration-ms="333" started-at="2016-12-14T18:39:03Z" finished-at="2016-12-14T18:39:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.web.automation.scripts.InficonValidation.sampleGitHubJenkinsTest() throws java.lang.Throwable]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name="" status=SUCCESS method=InficonValidation.sampleGitHubJenkinsTest()[pri:0, instance:com.web.automation.scripts.InficonValidation@25084a1e] output=Completed executing method  :- InficonValidation.sampleGitHubJenkinsTest]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing method  :- TestEngineWeb.afterMethod]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.web.automation.scripts.InficonValidation@25084a1e]" test-instance-name="" name="afterClass" is-config="true" duration-ms="21975" started-at="2016-12-14T18:39:03Z" finished-at="2016-12-14T18:39:25Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing method  :- TestEngineWeb.afterClass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.web.automation.scripts.InficonValidation@25084a1e]" test-instance-name="" name="afterTest" is-config="true" duration-ms="70" started-at="2016-12-14T18:39:25Z" finished-at="2016-12-14T18:39:25Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing method  :- TestEngineWeb.afterTest]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.web.automation.scripts.InficonValidation@25084a1e]" test-instance-name="" name="afterSuite" is-config="true" duration-ms="146" started-at="2016-12-14T18:39:25Z" finished-at="2016-12-14T18:39:26Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing method  :- TestEngineWeb.afterSuite]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.web.automation.scripts.InficonValidation -->
+    </test> <!-- Test-chrome-Web -->
+  </suite> <!-- Selenium-Automation -->
+</testng-results>

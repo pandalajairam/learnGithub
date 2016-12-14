@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="chromeWindowsLocal"
+           tests="6"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="930.016">
+  <properties />
+  
+  
+            <testcase name="verifyBillingWidget" time="66.566" classname="com.Mumms.scripts.Home" />
+                <testcase name="verifyMedicationsWidget" time="135.261" classname="com.Mumms.scripts.Home" />
+                <testcase name="claimsManagement" time="214.602" classname="com.Mumms.scripts.Home" />
+                <testcase name="claimsManagementNoesTab" time="267.452" classname="com.Mumms.scripts.Home" />
+                <testcase name="verifyWidgetsfunctionslity" time="135.909" classname="com.Mumms.scripts.Home" />
+                <testcase name="verifyPatientsbyPayerType" time="110.226" classname="com.Mumms.scripts.Home" />
+      
+</testsuite>

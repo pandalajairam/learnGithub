@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Mumms Automation test suite" duration-ms="76418" started-at="2016-12-14T15:18:05Z" finished-at="2016-12-14T15:19:21Z">
+    <groups>
+    </groups>
+    <test name="chromeWindowsLocal" duration-ms="76418" started-at="2016-12-14T15:18:05Z" finished-at="2016-12-14T15:19:21Z">
+      <class name="com.Inficon.scripts.Login">
+        <test-method status="PASS" signature="beforeSuite(org.testng.ITestContext, java.lang.String, java.lang.String)[pri:0, instance:com.Inficon.scripts.Login@55b53d44]" name="beforeSuite" is-config="true" duration-ms="20" started-at="2016-12-14T20:48:05Z" finished-at="2016-12-14T20:48:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@543295b0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sequential]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Regression]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Inficon.scripts.Login@55b53d44]" name="beforeTest" is-config="true" duration-ms="45736" started-at="2016-12-14T20:48:05Z" finished-at="2016-12-14T20:48:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[selenium]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[46.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[local]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[windows 7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.Inficon.scripts.Login@55b53d44]" name="beforeMethod" is-config="true" duration-ms="36" started-at="2016-12-14T20:48:50Z" finished-at="2016-12-14T20:48:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Inficon.scripts.Login.loginToJenkins() throws java.lang.Throwable]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loginToJenkins()[pri:0, instance:com.Inficon.scripts.Login@55b53d44]" name="loginToJenkins" duration-ms="28918" started-at="2016-12-14T20:48:50Z" finished-at="2016-12-14T20:49:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToJenkins -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.Inficon.scripts.Login@55b53d44]" name="afterMethod" is-config="true" duration-ms="8" started-at="2016-12-14T20:49:19Z" finished-at="2016-12-14T20:49:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest(java.lang.String)[pri:0, instance:com.Inficon.scripts.Login@55b53d44]" name="afterTest" is-config="true" duration-ms="1712" started-at="2016-12-14T20:49:19Z" finished-at="2016-12-14T20:49:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.Inficon.scripts.Login -->
+    </test> <!-- chromeWindowsLocal -->
+  </suite> <!-- Mumms Automation test suite -->
+</testng-results>

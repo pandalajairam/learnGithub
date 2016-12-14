@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="chromeWindowsLocal"
+           tests="14"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1044.271">
+  <properties />
+  
+  
+            <testcase name="testGenerateReferralsbyReferralSourceReport" time="92.488" classname="com.Mumms.scripts.Reports" />
+                <testcase name="testGenerateVisitReport" time="61.076" classname="com.Mumms.scripts.Reports" />
+                <testcase name="testGeneratePaymentsAndAdjustmentsReport" time="52.688" classname="com.Mumms.scripts.Reports" />
+                <testcase name="testGenerateTeamMeetingReport" time="67.538" classname="com.Mumms.scripts.Reports" />
+                <testcase name="testGenerateBereavedPersonsReport" time="57.663" classname="com.Mumms.scripts.Reports" />
+                <testcase name="testGenerateCreditClaimBalanceReport" time="54.525" classname="com.Mumms.scripts.Reports" />
+                <testcase name="testGenerateMonthEndARReconciliationReport" time="56.386" classname="com.Mumms.scripts.Reports" />
+                <testcase name="testGenerateHISForAdmissionReport" time="55.868" classname="com.Mumms.scripts.Reports" />
+                <testcase name="testGenerateMonthlyRevenueReport" time="72.889" classname="com.Mumms.scripts.Reports" />
+                <testcase name="testGeneratePatientDaysbyLevelofCareReport" time="159.830" classname="com.Mumms.scripts.Reports" />
+                <testcase name="verifyCAHPSReport" time="88.561" classname="com.Mumms.scripts.Reports" />
+                <testcase name="testGenerateHISForDischargeReport" time="54.609" classname="com.Mumms.scripts.Reports" />
+                <testcase name="medlineReport" time="111.037" classname="com.Mumms.scripts.Reports" />
+                <testcase name="testGenerateContactsListReport" time="59.113" classname="com.Mumms.scripts.Reports" />
+      
+</testsuite>

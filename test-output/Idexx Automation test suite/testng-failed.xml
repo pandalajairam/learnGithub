@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="15" guice-stage="DEVELOPMENT" name="Failed suite [Idexx Automation test suite]" parallel="tests">
+  <parameter name="environment" value="local"/>
+  <parameter name="suiteExecuted" value="Regression"/>
+  <parameter name="executionType" value="Sequential"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="46.0"/>
+  <parameter name="automationName" value="selenium"/>
+  <parameter name="platformName" value="windows 7"/>
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+    <listener class-name="com.automation.utilities.AssignTestPriorityTransformer"/>
+  </listeners>
+  <test name="ChromeWindowsLocal(failed)" parallel="tests">
+    <parameter name="environment" value="local"/>
+    <parameter name="browser" value="chrome"/>
+    <parameter name="browserVersion" value="46.0"/>
+    <parameter name="automationName" value="selenium"/>
+    <parameter name="platformName" value="windows 7"/>
+    <classes>
+      <class name="com.SalesForce.scripts.Opportunity">
+        <parameter name="userrole" value="CustomerSupportRep-LPD"/>
+        <methods>
+          <include name="afterTest"/>
+          <include name="login"/>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+          <include name="logOut"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.SalesForce.scripts.Opportunity -->
+      <class name="com.SalesForce.scripts.Home">
+        <parameter name="userrole" value="CustomerSupportRep-LPD"/>
+        <methods>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+          <include name="logOut"/>
+          <include name="login"/>
+          <include name="TestCustomize_AddTab" invocation-numbers="0 1"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.SalesForce.scripts.Home -->
+      <class name="com.SalesForce.scripts.Login">
+        <parameter name="userrole" value="CustomerSupportRep-LPD"/>
+        <methods>
+          <include name="afterTest"/>
+          <include name="beforeSuite"/>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+          <include name="dologout"/>
+          <include name="beforeMethod"/>
+          <include name="login"/>
+        </methods>
+      </class> <!-- com.SalesForce.scripts.Login -->
+      <class name="com.SalesForce.scripts.Contacts">
+        <parameter name="userrole" value="CustomerSupportRep-LPD"/>
+        <methods>
+          <include name="afterTest"/>
+          <include name="logout"/>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+          <include name="login"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.SalesForce.scripts.Contacts -->
+      <class name="com.SalesForce.scripts.Accounts">
+        <parameter name="userrole" value="CustomerSupportRep-LPD"/>
+        <methods>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+          <include name="login"/>
+          <include name="logOut"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.SalesForce.scripts.Accounts -->
+      <class name="com.SalesForce.scripts.Activity">
+        <parameter name="userrole" value="CustomerSupportRep-LPD"/>
+        <methods>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+          <include name="login"/>
+          <include name="logOut"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.SalesForce.scripts.Activity -->
+      <class name="com.SalesForce.scripts.Case">
+        <parameter name="userrole" value="CustomerSupportRep-LPD"/>
+        <methods>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+          <include name="login"/>
+          <include name="logOut"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.SalesForce.scripts.Case -->
+    </classes>
+  </test> <!-- ChromeWindowsLocal(failed) -->
+</suite> <!-- Failed suite [Idexx Automation test suite] -->

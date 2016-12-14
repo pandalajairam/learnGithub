@@ -1,0 +1,2469 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>ICAT - HTML Logs</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Fri Apr 01 23:22:51 IST 2016<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">fileName = resources/gallopReporter.properties</td>
+</tr>
+
+<tr>
+<td>1</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">key = clientName</td>
+</tr>
+
+<tr>
+<td>2</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">fileName = resources/gallopReporter.properties</td>
+</tr>
+
+<tr>
+<td>2</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">key = deviceName</td>
+</tr>
+
+<tr>
+<td>3</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">fileName = resources/gallopReporter.properties</td>
+</tr>
+
+<tr>
+<td>3</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">key = iterationMode</td>
+</tr>
+
+<tr>
+<td>3</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">fileName = resources/gallopReporter.properties</td>
+</tr>
+
+<tr>
+<td>3</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">key = suiteName</td>
+</tr>
+
+<tr>
+<td>4</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">fileName = resources/gallopReporter.properties</td>
+</tr>
+
+<tr>
+<td>4</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">key = onErrorAction</td>
+</tr>
+
+<tr>
+<td>5</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">fileName = resources/gallopReporter.properties</td>
+</tr>
+
+<tr>
+<td>5</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">key = singleThreadExecution</td>
+</tr>
+
+<tr>
+<td>6</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">fileName = resources/gallopReporter.properties</td>
+</tr>
+
+<tr>
+<td>6</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">key = AUT</td>
+</tr>
+
+<tr>
+<td>6</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">fileName = resources/gallopReporter.properties</td>
+</tr>
+
+<tr>
+<td>7</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">key = baseUrl</td>
+</tr>
+
+<tr>
+<td>7</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">fileName = resources/gallopReporter.properties</td>
+</tr>
+
+<tr>
+<td>7</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">key = baseUrl2</td>
+</tr>
+
+<tr>
+<td>8</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">fileName = resources/gallopReporter.properties</td>
+</tr>
+
+<tr>
+<td>8</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">key = Waittime</td>
+</tr>
+
+<tr>
+<td>9</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">fileName = resources/gallopReporter.properties</td>
+</tr>
+
+<tr>
+<td>9</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">key = browserName</td>
+</tr>
+
+<tr>
+<td>9</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">fileName = resources/gallopReporter.properties</td>
+</tr>
+
+<tr>
+<td>10</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">key = version</td>
+</tr>
+
+<tr>
+<td>10</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">fileName = resources/gallopReporter.properties</td>
+</tr>
+
+<tr>
+<td>10</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">key = platform</td>
+</tr>
+
+<tr>
+<td>11</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">fileName = resources/gallopReporter.properties</td>
+</tr>
+
+<tr>
+<td>11</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">key = reportFormat</td>
+</tr>
+
+<tr>
+<td>12</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">fileName = resources/gallopReporter.properties</td>
+</tr>
+
+<tr>
+<td>12</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">key = locationResult</td>
+</tr>
+
+<tr>
+<td>12</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">fileName = resources/gallopReporter.properties</td>
+</tr>
+
+<tr>
+<td>12</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">key = folderScreenShot</td>
+</tr>
+
+<tr>
+<td>13</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">fileName = resources/gallopReporter.properties</td>
+</tr>
+
+<tr>
+<td>13</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">key = locationClientLogo</td>
+</tr>
+
+<tr>
+<td>14</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">fileName = resources/gallopReporter.properties</td>
+</tr>
+
+<tr>
+<td>14</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">key = locationCompanyLogo</td>
+</tr>
+
+<tr>
+<td>14</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">fileName = resources/gallopReporter.properties</td>
+</tr>
+
+<tr>
+<td>14</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">key = locationFailedLogo</td>
+</tr>
+
+<tr>
+<td>15</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">fileName = resources/gallopReporter.properties</td>
+</tr>
+
+<tr>
+<td>15</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">key = locationMinusLogo</td>
+</tr>
+
+<tr>
+<td>16</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">fileName = resources/gallopReporter.properties</td>
+</tr>
+
+<tr>
+<td>16</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">key = locationPassedLogo</td>
+</tr>
+
+<tr>
+<td>16</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">fileName = resources/gallopReporter.properties</td>
+</tr>
+
+<tr>
+<td>16</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">key = locationPlusLogo</td>
+</tr>
+
+<tr>
+<td>17</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">fileName = resources/gallopReporter.properties</td>
+</tr>
+
+<tr>
+<td>17</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">key = locationWarningLogo</td>
+</tr>
+
+<tr>
+<td>17</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">fileName = resources/gallopReporter.properties</td>
+</tr>
+
+<tr>
+<td>18</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">key = onSuccessScreenshot</td>
+</tr>
+
+<tr>
+<td>18</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">fileName = resources/gallopReporter.properties</td>
+</tr>
+
+<tr>
+<td>18</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">key = userName</td>
+</tr>
+
+<tr>
+<td>19</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">fileName = resources/gallopReporter.properties</td>
+</tr>
+
+<tr>
+<td>19</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">key = accessKey</td>
+</tr>
+
+<tr>
+<td>20</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">fileName = resources/gallopReporter.properties</td>
+</tr>
+
+<tr>
+<td>20</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">key = cloudImplicitWait</td>
+</tr>
+
+<tr>
+<td>21</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">fileName = resources/gallopReporter.properties</td>
+</tr>
+
+<tr>
+<td>21</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">key = cloudPageLoadTimeOut</td>
+</tr>
+
+<tr>
+<td>21</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">fileName = resources/gallopReporter.properties</td>
+</tr>
+
+<tr>
+<td>21</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">key = locationCssFolder</td>
+</tr>
+
+<tr>
+<td>22</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">fileName = resources/gallopReporter.properties</td>
+</tr>
+
+<tr>
+<td>22</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">key = locationJsFolder</td>
+</tr>
+
+<tr>
+<td>23</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">fileName = resources/gallopReporter.properties</td>
+</tr>
+
+<tr>
+<td>23</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.ConfigFileReadWrite category">com.automation.report.ConfigFileReadWrite</td>
+<td title="Message">key = locationImagesFolder</td>
+</tr>
+
+<tr>
+<td>14040</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.BrowserContext category">com.automation.report.BrowserContext</td>
+<td title="Message">New BrowserContext Instance Was Created And Placed In Map : BrowserContext.mapBrowserContext</td>
+</tr>
+
+<tr>
+<td>14040</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.BrowserContext category">com.automation.report.BrowserContext</td>
+<td title="Message">&lt;BrowserContext&gt;&lt;Name&gt; chrome&lt;/Name&gt;&lt;Version&gt; windows 7&lt;/Version&gt;&lt;Platform&gt;local&lt;/Platform&gt;&lt;/BrowserContext&gt;</td>
+</tr>
+
+<tr>
+<td>14041</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.BrowserContext category">com.automation.report.BrowserContext</td>
+<td title="Message">BrowserContext Info Being returned: &lt;BrowserContext&gt;&lt;Name&gt; chrome&lt;/Name&gt;&lt;Version&gt; windows 7&lt;/Version&gt;&lt;Platform&gt;local&lt;/Platform&gt;&lt;/BrowserContext&gt;</td>
+</tr>
+
+<tr>
+<td>14041</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.BrowserContext category">com.automation.report.BrowserContext</td>
+<td title="Message">&lt;BrowserContext&gt;&lt;Name&gt; chrome&lt;/Name&gt;&lt;Version&gt; windows 7&lt;/Version&gt;&lt;Platform&gt;local&lt;/Platform&gt;&lt;/BrowserContext&gt;</td>
+</tr>
+
+<tr>
+<td>14041</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.BrowserContext category">com.automation.report.BrowserContext</td>
+<td title="Message">BrowserContext Info Being returned: &lt;BrowserContext&gt;&lt;Name&gt; chrome&lt;/Name&gt;&lt;Version&gt; windows 7&lt;/Version&gt;&lt;Platform&gt;local&lt;/Platform&gt;&lt;/BrowserContext&gt;</td>
+</tr>
+
+<tr>
+<td>14041</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>14043</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>14044</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">Current Logo Name : logos/logo.png</td>
+</tr>
+
+<tr>
+<td>14077</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">logos\logo.pngcopied to C:\Project\Stag\MummsFrameWork\results\CHROME-windows 7-local\screenshots</td>
+</tr>
+
+<tr>
+<td>14078</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">Current Logo Name : logos/gallop_logo.png</td>
+</tr>
+
+<tr>
+<td>14085</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">logos\gallop_logo.pngcopied to C:\Project\Stag\MummsFrameWork\results\CHROME-windows 7-local\screenshots</td>
+</tr>
+
+<tr>
+<td>14085</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">Current Logo Name : logos/failed.ico</td>
+</tr>
+
+<tr>
+<td>14093</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">logos\failed.icocopied to C:\Project\Stag\MummsFrameWork\results\CHROME-windows 7-local\screenshots</td>
+</tr>
+
+<tr>
+<td>14093</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">Current Logo Name : logos/Minus.ico</td>
+</tr>
+
+<tr>
+<td>14103</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">logos\Minus.icocopied to C:\Project\Stag\MummsFrameWork\results\CHROME-windows 7-local\screenshots</td>
+</tr>
+
+<tr>
+<td>14103</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">Current Logo Name : logos/passed.ico</td>
+</tr>
+
+<tr>
+<td>14109</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">logos\passed.icocopied to C:\Project\Stag\MummsFrameWork\results\CHROME-windows 7-local\screenshots</td>
+</tr>
+
+<tr>
+<td>14109</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">Current Logo Name : logos/Plus.ico</td>
+</tr>
+
+<tr>
+<td>14121</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">logos\Plus.icocopied to C:\Project\Stag\MummsFrameWork\results\CHROME-windows 7-local\screenshots</td>
+</tr>
+
+<tr>
+<td>14121</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">Current Logo Name : logos/warning.ico</td>
+</tr>
+
+<tr>
+<td>14137</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">logos\warning.icocopied to C:\Project\Stag\MummsFrameWork\results\CHROME-windows 7-local\screenshots</td>
+</tr>
+
+<tr>
+<td>14137</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">Current Logo Name : logos/css</td>
+</tr>
+
+<tr>
+<td>14247</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">Current Logo Name : logos/images</td>
+</tr>
+
+<tr>
+<td>14277</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">Current Logo Name : logos/js</td>
+</tr>
+
+<tr>
+<td>14462</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">instance member browserContext was set to : </td>
+</tr>
+
+<tr>
+<td>14463</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.BrowserContext category">com.automation.report.BrowserContext</td>
+<td title="Message">&lt;BrowserContext&gt;&lt;Name&gt; chrome&lt;/Name&gt;&lt;Version&gt; windows 7&lt;/Version&gt;&lt;Platform&gt;local&lt;/Platform&gt;&lt;/BrowserContext&gt;</td>
+</tr>
+
+<tr>
+<td>14462</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">&lt;BrowserContext&gt;&lt;Name&gt; chrome&lt;/Name&gt;&lt;Version&gt; windows 7&lt;/Version&gt;&lt;Platform&gt;local&lt;/Platform&gt;&lt;/BrowserContext&gt;</td>
+</tr>
+
+<tr>
+<td>14463</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">Instance Of CReporter Created</td>
+</tr>
+
+<tr>
+<td>14463</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">reporter was placed into CReporter.mapBrowserContextReporter</td>
+</tr>
+
+<tr>
+<td>20886</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>28310</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>36140</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>44728</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>64953</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>83321</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>94322</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>104676</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>115136</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>125789</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>135865</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>142089</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>150660</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>156863</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>163033</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>171264</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>177449</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>186726</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>192868</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>199065</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>207235</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>213429</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>219631</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>230856</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>240871</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>240898</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>248272</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>255558</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>263905</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>284138</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>294543</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>300795</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>379414</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.accelerators.ActionEngine category">com.automation.accelerators.ActionEngine</td>
+<td title="Message">no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;.//button[@id='gwt-debug-ok-no-cancel-button']&quot;}
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.20.353124 (035346203162d32c80f1dce587c8154a1efa0c3b),platform=Linux 3.10.0-327.3.1.el7.x86_64 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: '6583115084b8', ip: '172.17.0.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-327.3.1.el7.x86_64', java.version: '1.8.0_45-internal'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=/tmp/.com.google.Chrome.igOdgB}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=LINUX, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: dd764a91d1a86342d36773a15bb4e2f6
+*** Element info: {Using=xpath, value=.//button[@id='gwt-debug-ok-no-cancel-button']}
+Command duration or timeout: 12.15 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'HW0380', ip: '172.16.29.255', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_71'
+*** Element info: {Using=xpath, value=.//button[@id='gwt-debug-ok-no-cancel-button']}
+Session ID: 45d6154a-2c1c-4080-b89b-a8f9c84bc835
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=LINUX, javascriptEnabled=true, acceptSslCerts=true, browserName=chrome, chrome={userDataDir=/tmp/.com.google.Chrome.igOdgB}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, webdriver.remote.sessionid=45d6154a-2c1c-4080-b89b-a8f9c84bc835, version=48.0.2564.109, takesHeapSnapshot=true, databaseEnabled=false, cssSelectorsEnabled=true, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]</td>
+</tr>
+
+<tr>
+<td>379415</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>382245</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>388450</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>394769</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>403996</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>421542</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>429073</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>437539</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>457958</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>465127</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>486419</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>495662</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>505679</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>505714</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>513070</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>520370</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>529133</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>554923</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.accelerators.ActionEngine category">com.automation.accelerators.ActionEngine</td>
+<td title="Message">no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//div[text()='PATIENTS BY PAYER TYPE']/parent::td/following-sibling::td//img[@class='gwt-Image hb-widget-header-btns hb-widget-close-icon']&quot;}
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.20.353124 (035346203162d32c80f1dce587c8154a1efa0c3b),platform=Linux 3.10.0-327.3.1.el7.x86_64 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.01 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: '6583115084b8', ip: '172.17.0.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-327.3.1.el7.x86_64', java.version: '1.8.0_45-internal'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=/tmp/.com.google.Chrome.igOdgB}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=LINUX, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: dd764a91d1a86342d36773a15bb4e2f6
+*** Element info: {Using=xpath, value=//div[text()='PATIENTS BY PAYER TYPE']/parent::td/following-sibling::td//img[@class='gwt-Image hb-widget-header-btns hb-widget-close-icon']}
+Command duration or timeout: 11.77 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'HW0380', ip: '172.16.29.255', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_71'
+*** Element info: {Using=xpath, value=//div[text()='PATIENTS BY PAYER TYPE']/parent::td/following-sibling::td//img[@class='gwt-Image hb-widget-header-btns hb-widget-close-icon']}
+Session ID: 45d6154a-2c1c-4080-b89b-a8f9c84bc835
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=LINUX, javascriptEnabled=true, acceptSslCerts=true, browserName=chrome, chrome={userDataDir=/tmp/.com.google.Chrome.igOdgB}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, webdriver.remote.sessionid=45d6154a-2c1c-4080-b89b-a8f9c84bc835, version=48.0.2564.109, takesHeapSnapshot=true, databaseEnabled=false, cssSelectorsEnabled=true, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]</td>
+</tr>
+
+<tr>
+<td>565121</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>600641</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>601772</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>601789</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>608222</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>618082</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>619176</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>619203</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>625365</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>626529</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>626547</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>635137</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>642013</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>643192</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>643208</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>651467</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>657861</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>667644</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>676875</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>686884</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>686910</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>694406</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>701784</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>710365</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>729947</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>750113</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>755183</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>781808</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>786827</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>794406</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>825117</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>831421</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>831438</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>839130</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>870304</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>876659</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>876677</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>884281</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>913942</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>920241</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>920255</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>926272</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>934255</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>942329</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>988278</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>996258</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1004206</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1009222</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1012333</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1037488</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1037490</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1043481</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1051470</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1059479</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1104480</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1112474</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1120424</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1132948</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1139118</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1139134</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1148340</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1158357</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1158382</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1165943</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1173546</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1182037</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1201402</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1221819</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1228166</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1245903</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1263766</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1269999</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1270016</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1277880</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1295486</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1301725</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1301743</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1309610</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1330209</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1336444</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1336459</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1344400</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1491861</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1498277</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1498292</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1502311</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1633255</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1638272</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1646027</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1786080</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1792493</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1792508</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1800423</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1945654</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1952078</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1952093</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1974832</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1974832</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1995818</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>1995819</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>2002173</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>2008401</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>2008416</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>2008417</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>2017579</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>2027595</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>2027641</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>2035145</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>2042572</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>2048901</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>2072459</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.accelerators.ActionEngine category">com.automation.accelerators.ActionEngine</td>
+<td title="Message">no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;.//*[@id='gwt-debug-patient-module-button']/tbody/tr[1]/td/div/img&quot;}
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.20.353124 (035346203162d32c80f1dce587c8154a1efa0c3b),platform=Linux 3.10.0-327.3.1.el7.x86_64 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: '6583115084b8', ip: '172.17.0.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-327.3.1.el7.x86_64', java.version: '1.8.0_45-internal'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=/tmp/.com.google.Chrome.igOdgB}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=LINUX, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: dd764a91d1a86342d36773a15bb4e2f6
+*** Element info: {Using=xpath, value=.//*[@id='gwt-debug-patient-module-button']/tbody/tr[1]/td/div/img}
+Command duration or timeout: 11.54 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'HW0380', ip: '172.16.29.255', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_71'
+*** Element info: {Using=xpath, value=.//*[@id='gwt-debug-patient-module-button']/tbody/tr[1]/td/div/img}
+Session ID: 45d6154a-2c1c-4080-b89b-a8f9c84bc835
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=LINUX, javascriptEnabled=true, acceptSslCerts=true, browserName=chrome, chrome={userDataDir=/tmp/.com.google.Chrome.igOdgB}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, webdriver.remote.sessionid=45d6154a-2c1c-4080-b89b-a8f9c84bc835, version=48.0.2564.109, takesHeapSnapshot=true, databaseEnabled=false, cssSelectorsEnabled=true, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]</td>
+</tr>
+
+<tr>
+<td>2072460</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>2073440</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>2090479</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.accelerators.ActionEngine category">com.automation.accelerators.ActionEngine</td>
+<td title="Message">no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;.//*[@id='gwt-debug-firstName-search-bar']&quot;}
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.20.353124 (035346203162d32c80f1dce587c8154a1efa0c3b),platform=Linux 3.10.0-327.3.1.el7.x86_64 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.02 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: '6583115084b8', ip: '172.17.0.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-327.3.1.el7.x86_64', java.version: '1.8.0_45-internal'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=/tmp/.com.google.Chrome.igOdgB}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=LINUX, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: dd764a91d1a86342d36773a15bb4e2f6
+*** Element info: {Using=xpath, value=.//*[@id='gwt-debug-firstName-search-bar']}
+Command duration or timeout: 12.02 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'HW0380', ip: '172.16.29.255', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_71'
+*** Element info: {Using=xpath, value=.//*[@id='gwt-debug-firstName-search-bar']}
+Session ID: 45d6154a-2c1c-4080-b89b-a8f9c84bc835
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=LINUX, javascriptEnabled=true, acceptSslCerts=true, browserName=chrome, chrome={userDataDir=/tmp/.com.google.Chrome.igOdgB}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, webdriver.remote.sessionid=45d6154a-2c1c-4080-b89b-a8f9c84bc835, version=48.0.2564.109, takesHeapSnapshot=true, databaseEnabled=false, cssSelectorsEnabled=true, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]</td>
+</tr>
+
+<tr>
+<td>2090480</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>2091672</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>2107947</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.accelerators.ActionEngine category">com.automation.accelerators.ActionEngine</td>
+<td title="Message">no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;.//td[@class='hb-flex-grid-data-cell']//div[@id='gwt-debug-firstName']&quot;}
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.20.353124 (035346203162d32c80f1dce587c8154a1efa0c3b),platform=Linux 3.10.0-327.3.1.el7.x86_64 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: '6583115084b8', ip: '172.17.0.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-327.3.1.el7.x86_64', java.version: '1.8.0_45-internal'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=/tmp/.com.google.Chrome.igOdgB}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=LINUX, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: dd764a91d1a86342d36773a15bb4e2f6
+*** Element info: {Using=xpath, value=.//td[@class='hb-flex-grid-data-cell']//div[@id='gwt-debug-firstName']}
+Command duration or timeout: 11.25 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'HW0380', ip: '172.16.29.255', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_71'
+*** Element info: {Using=xpath, value=.//td[@class='hb-flex-grid-data-cell']//div[@id='gwt-debug-firstName']}
+Session ID: 45d6154a-2c1c-4080-b89b-a8f9c84bc835
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=LINUX, javascriptEnabled=true, acceptSslCerts=true, browserName=chrome, chrome={userDataDir=/tmp/.com.google.Chrome.igOdgB}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, webdriver.remote.sessionid=45d6154a-2c1c-4080-b89b-a8f9c84bc835, version=48.0.2564.109, takesHeapSnapshot=true, databaseEnabled=false, cssSelectorsEnabled=true, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]</td>
+</tr>
+
+<tr>
+<td>2121528</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.accelerators.ActionEngine category">com.automation.accelerators.ActionEngine</td>
+<td title="Message">no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;.//*[@id='gwt-debug-lastName-search-bar']&quot;}
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.20.353124 (035346203162d32c80f1dce587c8154a1efa0c3b),platform=Linux 3.10.0-327.3.1.el7.x86_64 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.01 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: '6583115084b8', ip: '172.17.0.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-327.3.1.el7.x86_64', java.version: '1.8.0_45-internal'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=/tmp/.com.google.Chrome.igOdgB}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=LINUX, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: dd764a91d1a86342d36773a15bb4e2f6
+*** Element info: {Using=xpath, value=.//*[@id='gwt-debug-lastName-search-bar']}
+Command duration or timeout: 11.58 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'HW0380', ip: '172.16.29.255', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_71'
+*** Element info: {Using=xpath, value=.//*[@id='gwt-debug-lastName-search-bar']}
+Session ID: 45d6154a-2c1c-4080-b89b-a8f9c84bc835
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=LINUX, javascriptEnabled=true, acceptSslCerts=true, browserName=chrome, chrome={userDataDir=/tmp/.com.google.Chrome.igOdgB}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, webdriver.remote.sessionid=45d6154a-2c1c-4080-b89b-a8f9c84bc835, version=48.0.2564.109, takesHeapSnapshot=true, databaseEnabled=false, cssSelectorsEnabled=true, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]</td>
+</tr>
+
+<tr>
+<td>2121529</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>2122997</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>2140066</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.accelerators.ActionEngine category">com.automation.accelerators.ActionEngine</td>
+<td title="Message">no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;.//*[@id='gwt-debug-patient-listing']//*[@id='gwt-debug-add-button-search-bar']/img&quot;}
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.20.353124 (035346203162d32c80f1dce587c8154a1efa0c3b),platform=Linux 3.10.0-327.3.1.el7.x86_64 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.01 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: '6583115084b8', ip: '172.17.0.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-327.3.1.el7.x86_64', java.version: '1.8.0_45-internal'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=/tmp/.com.google.Chrome.igOdgB}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=LINUX, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: dd764a91d1a86342d36773a15bb4e2f6
+*** Element info: {Using=xpath, value=.//*[@id='gwt-debug-patient-listing']//*[@id='gwt-debug-add-button-search-bar']/img}
+Command duration or timeout: 12.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'HW0380', ip: '172.16.29.255', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_71'
+*** Element info: {Using=xpath, value=.//*[@id='gwt-debug-patient-listing']//*[@id='gwt-debug-add-button-search-bar']/img}
+Session ID: 45d6154a-2c1c-4080-b89b-a8f9c84bc835
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=LINUX, javascriptEnabled=true, acceptSslCerts=true, browserName=chrome, chrome={userDataDir=/tmp/.com.google.Chrome.igOdgB}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, webdriver.remote.sessionid=45d6154a-2c1c-4080-b89b-a8f9c84bc835, version=48.0.2564.109, takesHeapSnapshot=true, databaseEnabled=false, cssSelectorsEnabled=true, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]</td>
+</tr>
+
+<tr>
+<td>2140066</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>2141216</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>2155521</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>2155522</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>2169041</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.accelerators.ActionEngine category">com.automation.accelerators.ActionEngine</td>
+<td title="Message">no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;.//*[@id='gwt-debug-Patient.middleInitial']&quot;}
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.20.353124 (035346203162d32c80f1dce587c8154a1efa0c3b),platform=Linux 3.10.0-327.3.1.el7.x86_64 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: '6583115084b8', ip: '172.17.0.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-327.3.1.el7.x86_64', java.version: '1.8.0_45-internal'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=/tmp/.com.google.Chrome.igOdgB}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=LINUX, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: dd764a91d1a86342d36773a15bb4e2f6
+*** Element info: {Using=xpath, value=.//*[@id='gwt-debug-Patient.middleInitial']}
+Command duration or timeout: 11.50 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'HW0380', ip: '172.16.29.255', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_71'
+*** Element info: {Using=xpath, value=.//*[@id='gwt-debug-Patient.middleInitial']}
+Session ID: 45d6154a-2c1c-4080-b89b-a8f9c84bc835
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=LINUX, javascriptEnabled=true, acceptSslCerts=true, browserName=chrome, chrome={userDataDir=/tmp/.com.google.Chrome.igOdgB}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, webdriver.remote.sessionid=45d6154a-2c1c-4080-b89b-a8f9c84bc835, version=48.0.2564.109, takesHeapSnapshot=true, databaseEnabled=false, cssSelectorsEnabled=true, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]</td>
+</tr>
+
+<tr>
+<td>2169041</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>2169921</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>2183206</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>2183207</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>2196241</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.accelerators.ActionEngine category">com.automation.accelerators.ActionEngine</td>
+<td title="Message">no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;.//*[@id='gwt-debug-Patient.nickname']&quot;}
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.20.353124 (035346203162d32c80f1dce587c8154a1efa0c3b),platform=Linux 3.10.0-327.3.1.el7.x86_64 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: '6583115084b8', ip: '172.17.0.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-327.3.1.el7.x86_64', java.version: '1.8.0_45-internal'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=/tmp/.com.google.Chrome.igOdgB}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=LINUX, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: dd764a91d1a86342d36773a15bb4e2f6
+*** Element info: {Using=xpath, value=.//*[@id='gwt-debug-Patient.nickname']}
+Command duration or timeout: 11.01 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'HW0380', ip: '172.16.29.255', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_71'
+*** Element info: {Using=xpath, value=.//*[@id='gwt-debug-Patient.nickname']}
+Session ID: 45d6154a-2c1c-4080-b89b-a8f9c84bc835
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=LINUX, javascriptEnabled=true, acceptSslCerts=true, browserName=chrome, chrome={userDataDir=/tmp/.com.google.Chrome.igOdgB}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, webdriver.remote.sessionid=45d6154a-2c1c-4080-b89b-a8f9c84bc835, version=48.0.2564.109, takesHeapSnapshot=true, databaseEnabled=false, cssSelectorsEnabled=true, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]</td>
+</tr>
+
+<tr>
+<td>2196242</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>2196872</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>2210172</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.accelerators.ActionEngine category">com.automation.accelerators.ActionEngine</td>
+<td title="Message">no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;.//*[@id='gwt-debug-Patient.primaryAddress.street1']&quot;}
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.20.353124 (035346203162d32c80f1dce587c8154a1efa0c3b),platform=Linux 3.10.0-327.3.1.el7.x86_64 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: '6583115084b8', ip: '172.17.0.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-327.3.1.el7.x86_64', java.version: '1.8.0_45-internal'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=/tmp/.com.google.Chrome.igOdgB}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=LINUX, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: dd764a91d1a86342d36773a15bb4e2f6
+*** Element info: {Using=xpath, value=.//*[@id='gwt-debug-Patient.primaryAddress.street1']}
+Command duration or timeout: 11.28 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'HW0380', ip: '172.16.29.255', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_71'
+*** Element info: {Using=xpath, value=.//*[@id='gwt-debug-Patient.primaryAddress.street1']}
+Session ID: 45d6154a-2c1c-4080-b89b-a8f9c84bc835
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=LINUX, javascriptEnabled=true, acceptSslCerts=true, browserName=chrome, chrome={userDataDir=/tmp/.com.google.Chrome.igOdgB}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, webdriver.remote.sessionid=45d6154a-2c1c-4080-b89b-a8f9c84bc835, version=48.0.2564.109, takesHeapSnapshot=true, databaseEnabled=false, cssSelectorsEnabled=true, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]</td>
+</tr>
+
+<tr>
+<td>2210173</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>2210820</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>2224151</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.accelerators.ActionEngine category">com.automation.accelerators.ActionEngine</td>
+<td title="Message">no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;.//*[@id='gwt-debug-Patient.primaryAddress.street2']&quot;}
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.20.353124 (035346203162d32c80f1dce587c8154a1efa0c3b),platform=Linux 3.10.0-327.3.1.el7.x86_64 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.02 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: '6583115084b8', ip: '172.17.0.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-327.3.1.el7.x86_64', java.version: '1.8.0_45-internal'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=/tmp/.com.google.Chrome.igOdgB}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=LINUX, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: dd764a91d1a86342d36773a15bb4e2f6
+*** Element info: {Using=xpath, value=.//*[@id='gwt-debug-Patient.primaryAddress.street2']}
+Command duration or timeout: 11.32 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'HW0380', ip: '172.16.29.255', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_71'
+*** Element info: {Using=xpath, value=.//*[@id='gwt-debug-Patient.primaryAddress.street2']}
+Session ID: 45d6154a-2c1c-4080-b89b-a8f9c84bc835
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=LINUX, javascriptEnabled=true, acceptSslCerts=true, browserName=chrome, chrome={userDataDir=/tmp/.com.google.Chrome.igOdgB}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, webdriver.remote.sessionid=45d6154a-2c1c-4080-b89b-a8f9c84bc835, version=48.0.2564.109, takesHeapSnapshot=true, databaseEnabled=false, cssSelectorsEnabled=true, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]</td>
+</tr>
+
+<tr>
+<td>2224151</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>
+
+<tr>
+<td>2225043</td>
+<td title="TestNG thread">TestNG</td>
+<td title="Level">INFO</td>
+<td title="com.automation.report.CReporter category">com.automation.report.CReporter</td>
+<td title="Message">resultDir = results\CHROME-windows 7-local</td>
+</tr>

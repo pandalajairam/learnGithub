@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="chromeWindowsLocal"
+           tests="13"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="11147.463">
+  <properties />
+  
+  
+            <testcase name="verifyDemographicsTab" time="722.874" classname="com.Mumms.scripts.Patient" />
+                <testcase name="TestValidateElectionGrid" time="1322.898" classname="com.Mumms.scripts.Patient" />
+                <testcase name="TestCareGiversTab" time="688.233" classname="com.Mumms.scripts.Patient" />
+                <testcase name="verifyintractiongrid" time="2417.929" classname="com.Mumms.scripts.Patient" />
+                <testcase name="TestValidatePatientHeader" time="1360.197" classname="com.Mumms.scripts.Patient" />
+                <testcase name="TestValidateHistoryTab" time="829.619" classname="com.Mumms.scripts.Patient" />
+                <testcase name="verifyUnadmitFunctionality" time="1162.695" classname="com.Mumms.scripts.Patient" />
+                <testcase name="verifyAllergiesTab" time="649.277" classname="com.Mumms.scripts.Patient" />
+                <testcase name="verifyPatientDrawerFunctionality" time="112.525" classname="com.Mumms.scripts.Patient" />
+                <testcase name="TestAddPatient" time="247.801" classname="com.Mumms.scripts.Patient" />
+                <testcase name="TestValidateInsuranceTab" time="640.607" classname="com.Mumms.scripts.Patient" />
+                <testcase name="TestUpdatePatient" time="271.123" classname="com.Mumms.scripts.Patient" />
+                <testcase name="verifyDiagnosisTab" time="721.685" classname="com.Mumms.scripts.Patient" />
+      
+</testsuite>

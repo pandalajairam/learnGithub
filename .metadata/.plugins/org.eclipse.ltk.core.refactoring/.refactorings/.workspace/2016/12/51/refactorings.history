@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Delete resource &apos;Gallop_Selenium_Automation&apos;" deleteContents="true" description="Delete resource &apos;Gallop_Selenium_Automation&apos;" element1="/Gallop_Selenium_Automation" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1481716673029"/>
-</session>

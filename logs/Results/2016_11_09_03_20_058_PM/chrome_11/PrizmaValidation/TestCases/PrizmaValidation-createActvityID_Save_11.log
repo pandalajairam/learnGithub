@@ -1,3 +1,0 @@
-09/11/2016 15:21:19	INFO 	PrizmaValidation-createActvityID_Save_11		Testcase executed on the Node IP: localhost
-09/11/2016 15:21:19	INFO 	PrizmaValidation-createActvityID_Save_11		***** Dataprovider Iteration No: 1 : *****
-09/11/2016 15:22:47	DEBUG	PrizmaValidation-createActvityID_Save_11		Error: Element ([[ChromeDriver: chrome on XP (66ee6be72bd7df32ac1d2438591c216d)] -> css selector: select#drpProduct+div div.selectize-dropdown-content>div]) is not visible.

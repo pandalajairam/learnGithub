@@ -1,4 +1,0 @@
-08/11/2016 14:59:30	INFO 	PrizmaValidation-createActvityID_Save_11		Testcase executed on the Node IP: localhost
-08/11/2016 14:59:30	INFO 	PrizmaValidation-createActvityID_Save_11		***** Dataprovider Iteration No: 1 : *****
-08/11/2016 15:01:18	DEBUG	PrizmaValidation-createActvityID_Save_11		Error: Element ([[ChromeDriver: chrome on XP (2f9d386f7bec6087aabf4c44ff91c762)] -> xpath: //section[@id='sp_BNAActivityOverview']/..//div//button[contains(text(),'Edit Section')]]) is not visible.
-08/11/2016 15:01:40	DEBUG	PrizmaValidation-createActvityID_Save_11		Error. Caught 'StaleElementReferenceException' exception while clicking on '[[ChromeDriver: chrome on XP (2f9d386f7bec6087aabf4c44ff91c762)] -> css selector: input[name='ActivityTitle']]' element.

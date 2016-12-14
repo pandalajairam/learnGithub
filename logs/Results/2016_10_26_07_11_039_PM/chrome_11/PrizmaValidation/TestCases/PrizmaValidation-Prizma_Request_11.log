@@ -1,8 +1,0 @@
-26/10/2016 19:11:51	INFO 	PrizmaValidation-Prizma_Request_11		Testcase executed on the Node IP: localhost
-26/10/2016 19:11:51	INFO 	PrizmaValidation-Prizma_Request_11		***** Dataprovider Iteration No: 1 : *****
-26/10/2016 19:18:03	DEBUG	PrizmaValidation-Prizma_Request_11		Error: Element ([[ChromeDriver: chrome on XP (c07e687a220b228738f766ae53103d5e)] -> css selector: button[id='btnNominate_Text']]) is not visible.
-26/10/2016 19:18:45	DEBUG	PrizmaValidation-Prizma_Request_11		Error: Element ([[ChromeDriver: chrome on XP (c07e687a220b228738f766ae53103d5e)] -> css selector: input[id='IsGovernmentOfficialUnderLocalLawYES']]) is not visible.
-26/10/2016 19:18:56	DEBUG	PrizmaValidation-Prizma_Request_11		Error: Element ([[ChromeDriver: chrome on XP (c07e687a220b228738f766ae53103d5e)] -> css selector: input[id='IsContractNegotiationOrPartYES']]) is not visible.
-26/10/2016 19:19:07	DEBUG	PrizmaValidation-Prizma_Request_11		Error: Element ([[ChromeDriver: chrome on XP (c07e687a220b228738f766ae53103d5e)] -> css selector: input[id='IsRequiredToPayAPersentageOfExpensesNO']]) is not visible.
-26/10/2016 19:19:53	DEBUG	PrizmaValidation-Prizma_Request_11		Error: Element ([[ChromeDriver: chrome on XP (c07e687a220b228738f766ae53103d5e)] -> css selector: button[id='btnNominate_Text']]) is not visible.
-26/10/2016 19:24:07	INFO 	PrizmaValidation-Prizma_Request_11		Stopping the class

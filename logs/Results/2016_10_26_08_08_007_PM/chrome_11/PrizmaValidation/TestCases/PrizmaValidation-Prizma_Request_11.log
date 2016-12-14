@@ -1,5 +1,0 @@
-26/10/2016 20:08:16	INFO 	PrizmaValidation-Prizma_Request_11		Testcase executed on the Node IP: localhost
-26/10/2016 20:08:16	INFO 	PrizmaValidation-Prizma_Request_11		***** Dataprovider Iteration No: 1 : *****
-26/10/2016 20:15:43	DEBUG	PrizmaValidation-Prizma_Request_11		Error: Element ([[ChromeDriver: chrome on XP (39a10ff1c0f1f353d5438530f17223b4)] -> css selector: button[id='btnNominate_Text']]) is not visible.
-26/10/2016 20:20:32	DEBUG	PrizmaValidation-Prizma_Request_11		Error: Element ([[ChromeDriver: chrome on XP (39a10ff1c0f1f353d5438530f17223b4)] -> xpath: //span[text()='Create New Request']]) is not visible.
-26/10/2016 20:21:06	INFO 	PrizmaValidation-Prizma_Request_11		Stopping the class

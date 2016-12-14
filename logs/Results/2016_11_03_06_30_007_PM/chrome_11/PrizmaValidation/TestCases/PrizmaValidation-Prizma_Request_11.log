@@ -1,4 +1,0 @@
-03/11/2016 18:30:17	INFO 	PrizmaValidation-Prizma_Request_11		Testcase executed on the Node IP: localhost
-03/11/2016 18:30:17	INFO 	PrizmaValidation-Prizma_Request_11		***** Dataprovider Iteration No: 1 : *****
-03/11/2016 18:32:43	INFO 	PrizmaValidation-Prizma_Request_11		Info: caught 'TimeoutException' exception while wait for element ( By.id: IsRequestOninformationtoadequatelypNo ) visibility at 'Prizma Johnson and Johnson' page
-03/11/2016 18:32:58	INFO 	PrizmaValidation-Prizma_Request_11		Info: caught 'TimeoutException' exception while wait for element ( By.id: GenIsMdeonV1ApprovalNo ) visibility at 'Prizma Johnson and Johnson' page

@@ -1,4 +1,0 @@
-03/11/2016 17:49:43	INFO 	PrizmaValidation-Prizma_Request_11		Testcase executed on the Node IP: localhost
-03/11/2016 17:49:43	INFO 	PrizmaValidation-Prizma_Request_11		***** Dataprovider Iteration No: 1 : *****
-03/11/2016 17:51:26	DEBUG	PrizmaValidation-Prizma_Request_11		Error. Caught 'StaleElementReferenceException' exception while clicking on '[[ChromeDriver: chrome on XP (4260f5ff5d77c64d9df52355c6fcebb0)] -> css selector: input[id='btnBusinessNeedActivityOverviewSaveAndNext']]' element.
-03/11/2016 17:51:37	INFO 	PrizmaValidation-Prizma_Request_11		Stopping the class

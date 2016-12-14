@@ -1,7 +1,0 @@
-26/10/2016 17:00:05	INFO 	PrizmaValidation-Prizma_Request_11		Testcase executed on the Node IP: localhost
-26/10/2016 17:00:05	INFO 	PrizmaValidation-Prizma_Request_11		***** Dataprovider Iteration No: 1 : *****
-26/10/2016 17:03:29	ERROR	PrizmaValidation-Prizma_Request_11		Error: Failed to enter text value - 'HC Activity Title' due to execption - Expected condition failed: waiting for element to be clickable: [[ChromeDriver: chrome on XP (8ba656efe42dc12161dc403154a5161e)] -> css selector: input[name='ActivityTitle']] (tried for 60 second(s) with 500 MILLISECONDS interval)
-Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
-System info: host: 'HW2307', ip: '172.16.18.119', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_51'
-Driver info: org.openqa.selenium.support.events.EventFiringWebDriver.
-26/10/2016 17:03:50	INFO 	PrizmaValidation-Prizma_Request_11		Stopping the class

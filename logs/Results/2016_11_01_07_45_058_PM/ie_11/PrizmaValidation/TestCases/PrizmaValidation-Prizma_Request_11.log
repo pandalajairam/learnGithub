@@ -1,3 +1,0 @@
-01/11/2016 19:46:04	INFO 	PrizmaValidation-Prizma_Request_11		Testcase executed on the Node IP: localhost
-01/11/2016 19:46:04	INFO 	PrizmaValidation-Prizma_Request_11		***** Dataprovider Iteration No: 1 : *****
-01/11/2016 19:48:18	DEBUG	PrizmaValidation-Prizma_Request_11		Error: Element ([[InternetExplorerDriver: internet explorer on WINDOWS (a25dda9c-8fcc-4e8d-bce0-d724f67b7f89)] -> xpath: //section[@id='sp_BNAActivityOverview']/..//div//button[contains(text(),'Edit Section')]]) is not visible.

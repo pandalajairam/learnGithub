@@ -25,10 +25,10 @@ public class Login extends InficonLib {
 			this.reporter.initTestCaseDescription("Sample login Test");
 			System.out.println("**********Into the SampleTest**********");
 			checkPageIsReadyUsingJavaScript();
-			doLogin("inficon", "inficon");
+			doLogin("demo", "Fusion");
 			System.out.println("The title of the page is - " + Driver.getTitle());
-			assertTrue(StringUtils.containsIgnoreCase(Driver.getTitle(), "Dashboard"),
-					"Jenkins");
+			assertTrue(StringUtils.containsIgnoreCase(Driver.getTitle(), "Micro"),
+					"Page title");
 
 		} catch (
 

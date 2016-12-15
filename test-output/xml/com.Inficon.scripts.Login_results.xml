@@ -4,10 +4,10 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="27.817">
+           time="69.597">
   <properties />
   
   
-            <testcase name="loginToJenkins" time="27.817" classname="com.Inficon.scripts.Login" />
+            <testcase name="inficonDemoApp" time="69.597" classname="com.Inficon.scripts.Login" />
       
 </testsuite>

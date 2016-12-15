@@ -20,7 +20,7 @@
 			<class name="com.Inficon.scripts.Login">
 				<methods>
 			<parameter name="userrole" value="AdminUser"></parameter>
-					 <include name="loginToJenkins" />
+					 <include name="inficonDemoApp" />
 				
 				</methods>
 			 </class>

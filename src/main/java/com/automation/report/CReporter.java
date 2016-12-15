@@ -125,7 +125,8 @@ public class CReporter {
 
 		}
 
-		strDirectory = strDirectory + "-" + browserVersion + "-" + browserPlatform;
+		// strDirectory = strDirectory + "-" + browserVersion + "-" +
+		// browserPlatform;
 
 		File resultDir = new File(ReporterConstants.LOCATION_RESULT + File.separator + strDirectory);
 		LOG.info("resultDir = " + resultDir);
@@ -584,13 +585,13 @@ public class CReporter {
 	 */
 	private void onSuccess(String strStepName, String strStepDes) throws IOException {
 
-		System.out.println("The browser context is "+this.browserContext);
+		System.out.println("The browser context is " + this.browserContext);
 		File file = new File(
 				this.filePath() + File.separatorChar + TestResult.strTestName.get(this.browserContext) + "_Results"
 				/* + TestResult.timeStamp */ + ".html");// "SummaryReport.html"
 		Writer writer = null;
 		Integer stepNumValue = TestResult.stepNum.get(this.browserContext);
-		System.out.println("The step number value is "+stepNumValue);
+		System.out.println("The step number value is " + stepNumValue);
 		String imgSrc = "'." + File.separatorChar + ReporterConstants.FOLDER_SCREENRSHOTS + File.separatorChar
 				+ this.getFileName(ReporterConstants.LOCATION_PASSED_LOGO) + "'";
 		if (stepNumValue != null) {
